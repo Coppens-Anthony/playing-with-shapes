@@ -20,3 +20,4 @@ ctx.fillRect(canvasElement.width / 2 - rect1.width / 2, canvasElement.height / 2
 
 ctx.fillStyle = rect2.color;
 ctx.fillRect(canvasElement.width / 2 - rect2.width / 2, canvasElement.height / 2 - rect2.height / 2, rect2.width, rect2.height);
+
